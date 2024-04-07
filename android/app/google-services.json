@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966196345956",
+    "project_id": "flash-chat-ba23e",
+    "storage_bucket": "flash-chat-ba23e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966196345956:android:d7d1feabcbd9160eccf371",
+        "android_client_info": {
+          "package_name": "aranav.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_ie9SetzNoYrq85rEHU1bJUjHNrj1QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
